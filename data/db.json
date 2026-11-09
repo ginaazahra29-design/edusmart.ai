@@ -1,0 +1,88 @@
+{
+  "history": [
+    {
+      "id": "demo-1",
+      "type": "quiz",
+      "title": "Kuis Fotosintesis & Reaksi Terang",
+      "timestamp": "2026-11-01T23:42:04.840Z",
+      "educationLevel": "SMA/SMK",
+      "score": 90,
+      "badge": "Nilai A",
+      "data": {
+        "id": "demo-1",
+        "topic": "Fotosintesis & Reaksi Terang",
+        "educationLevel": "SMA/SMK",
+        "difficulty": "Sedang",
+        "totalQuestions": 5,
+        "correctAnswersCount": 4,
+        "score": 80,
+        "timeSpentSeconds": 145,
+        "userAnswers": {
+          "1": "A",
+          "2": "B",
+          "3": "C",
+          "4": "B",
+          "5": "A"
+        },
+        "questions": [
+          {
+            "id": 1,
+            "question": "Di organel sel tumbuhan manakah proses fotosintesis berlangsung?",
+            "options": {
+              "A": "Kloroplas",
+              "B": "Mitokondria",
+              "C": "Ribosom",
+              "D": "Badan Golgi"
+            },
+            "correctAnswer": "A",
+            "explanation": "Kloroplas mengandung pigmen klorofil yang menyerap foton cahaya matahari untuk menggerakkan fotolisis air dan sintesis ATP."
+          }
+        ],
+        "completedAt": "2026-11-01T23:42:04.841Z"
+      }
+    },
+    {
+      "id": "demo-2",
+      "type": "summary",
+      "title": "Rangkuman: Hukum Gerak Newton I, II, dan III",
+      "timestamp": "2026-11-01T09:42:04.841Z",
+      "educationLevel": "SMP",
+      "badge": "Ringkasan",
+      "data": {
+        "id": "demo-2",
+        "title": "Rangkuman: Hukum Gerak Newton I, II, dan III",
+        "overview": "Hukum Newton menjelaskan hubungan antara gaya yang bekerja pada suatu benda dan gerak yang disebabkannya.",
+        "keyPoints": [
+          "Hukum I (Kelembaman): Benda diam tetap diam, benda bergerak lurus beraturan tetap bergerak jika resultan gaya = 0.",
+          "Hukum II (F = m × a): Percepatan benda berbanding lurus dengan resultan gaya dan berbanding terbalik dengan massa.",
+          "Hukum III (Aksi-Reaksi): Setiap gaya aksi memicu gaya reaksi yang sama besar tetapi berlawanan arah."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Inersia",
+            "definition": "Kecenderungan benda mempertahankan keadaan geraknya."
+          },
+          {
+            "term": "Gaya (Force)",
+            "definition": "Tarikan atau dorongan yang diukur dalam satuan Newton (N)."
+          }
+        ],
+        "takeaway": "Ketiga hukum ini adalah fondasi mekanika klasik yang mendasari perhitungan gerak benda sehari-hari.",
+        "originalWordCount": 420,
+        "summaryWordCount": 120,
+        "educationLevel": "SMP",
+        "createdAt": "2026-11-01T09:42:04.841Z"
+      }
+    }
+  ],
+  "profile": {
+    "name": "Pelajar Cerdas EduSmart",
+    "educationLevel": "SMP",
+    "institution": "SMA Negeri 1 Prestasi",
+    "majorOrGrade": "Kelas 11 IPA / MIPA",
+    "targetDailyQuestions": 10,
+    "targetDailyMinutes": 45,
+    "streakDays": 4,
+    "avatarSeed": "Felix"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "EduSmart AI - Platform Pembelajaran Cerdas & Tutor AI",
+  "description": "Platform pendidikan berbasis Artificial Intelligence untuk siswa SMP, SMA/SMK, hingga mahasiswa dengan fitur AI Tutor, Rangkuman Materi otomatis, dan Kuis Interaktif adaptif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
